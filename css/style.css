@@ -310,7 +310,7 @@ input {
 	Amenities wrapper Start
 -----------------------------*/
 .amenities {
-	background-image: url("../images/banner-amenities.png");
+	background-image: url("../images/banner-amenities.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
@@ -421,7 +421,7 @@ input {
 	Communication Start
 -----------------------------*/
 .communication {
-	background-image: url("../images/communication-banner.png");
+	background-image: url("../images/communication-banner.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
